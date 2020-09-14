@@ -1,0 +1,117 @@
+{
+  "estudiantes": [
+    {
+      "nombre": "Sigismund",
+      "apellido": "Bartolic",
+      "ciudad": "Plato",
+      "universidad": "Mohammad Ali Jinnah University",
+      "telefono": "43063-139",
+      "Documento": "3550815534945059",
+      "Color favorito": "Orange",
+      "Genero ": "M"
+    },
+    {
+      "nombre": "Marcos",
+      "apellido": "MacGeaney",
+      "ciudad": "Córdoba",
+      "universidad": "Moscow Power Engineering Institute (Technical University)",
+      "telefono": "49999-097",
+      "Documento": "5007666708147459",
+      "Color favorito": "Mauv",
+      "Genero ": "F"
+    },
+    {
+      "nombre": "Bondie",
+      "apellido": "Tammadge",
+      "ciudad": "Jingjiang",
+      "universidad": "St. John's University",
+      "telefono": "63940-150",
+      "Documento": "6759369615663183",
+      "Color favorito": "Khaki",
+      "Genero ": "F"
+    },
+    {
+      "nombre": "Brew",
+      "apellido": "Van den Velde",
+      "ciudad": "Balbagay",
+      "universidad": "Otsuma Women's University",
+      "telefono": "67046-271",
+      "Documento": "4017951843401768",
+      "Color favorito": "Khaki",
+      "Genero ": "F"
+    },
+    {
+      "nombre": "Bertrand",
+      "apellido": "Aynscombe",
+      "ciudad": "Jawatiwa",
+      "universidad": "Universidad de Ciencias Empresariales y Sociales",
+      "telefono": "68462-359",
+      "Documento": "3577233596190250",
+      "Color favorito": "Indigo",
+      "Genero ": "M"
+    },
+    {
+      "nombre": "Ransell",
+      "apellido": "Girton",
+      "ciudad": "Governador Valadares",
+      "universidad": "Kansas Wesleyan University",
+      "telefono": "56062-368",
+      "Documento": "3548838303087965",
+      "Color favorito": "Teal",
+      "Genero ": "F"
+    },
+    {
+      "nombre": "Bradford",
+      "apellido": "Howgill",
+      "ciudad": "Zhukovskiy",
+      "universidad": "Galway Mayo Institute of Technology",
+      "telefono": "43063-015",
+      "Documento": "6771453653233341",
+      "Color favorito": "Green",
+      "Genero ": "F"
+    },
+    {
+      "nombre": "Matthaeus",
+      "apellido": "Bett",
+      "ciudad": "Quba",
+      "universidad": "Voronezh State University",
+      "telefono": "0268-6218",
+      "Documento": "5610984268100258",
+      "Color favorito": "Orange",
+      "Genero ": "M"
+    },
+    {
+      "nombre": "Freeland",
+      "apellido": "Brend",
+      "ciudad": "Bualan",
+      "universidad": "Universidad Católica de Manizales",
+      "telefono": "68001-204",
+      "Documento": "6771148721216840169",
+      "Color favorito": "Goldenrod",
+      "Genero ": "F"
+    },
+    {
+      "nombre": "Farr",
+      "apellido": "Vondracek",
+      "ciudad": "Hengfeng",
+      "universidad": "Seokyeong University",
+      "telefono": "68083-131",
+      "Documento": "30546476476318",
+      "Color favorito": "Maroon",
+      "Genero ": "F"
+    },
+    {
+      "nombre": "lucia",
+      "apellido": "velez",
+      "telefono": "538416 5444",
+      "Universidad": "Universidad de los Andes",
+      "Documento": "6771148721977930169",
+      "ciudad": "Medellín",
+      "tags": [
+        "Abogado",
+        "Doctor"
+      ],
+      "id": "173748"
+    }
+  ]
+}
